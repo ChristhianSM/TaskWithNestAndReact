@@ -1,0 +1,13 @@
+{
+	"editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.mouseWheelZoom": true,
+	"conventionalCommits.scopes": [
+		"README",
+		"SELECT FUNCIONAL CON MUTACION",
+		"MULTI SELECT",
+		"Refactor-DX"
+	]
+}
